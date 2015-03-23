@@ -1,0 +1,2 @@
+# annextest
+testing git annex
